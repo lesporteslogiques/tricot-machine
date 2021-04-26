@@ -19,3 +19,7 @@ Les deux versions sont fonctionnelles, mais la version en ligne est à privilég
 ### Tramage version p5.js
 
 ![Tramage pour tricot-machine, version p5.js](./assets/tramage_p5js_20200529.png)
+
+## Motif
+
+Application processing pour dessiner des motifs. En cours
