@@ -23,3 +23,13 @@ Les deux versions sont fonctionnelles, mais la version en ligne est à privilég
 ## Motif
 
 Application processing pour dessiner des motifs. En cours
+
+![screenshot de la version 0.0.5](./assets/motif_v005_screenshot.png)
+
+### motif_v005
+
+Adaptation à des nouvelles contraintes :
+* définition fixée à 1024 x 768
+* damier porté à 64 x 64, avec 8 pixels par case
+
+Le chemin absolu vers le dossier de sauvegarde des motifs est indiqué dans le fichier config.txt, dans le répertoire data de l'application.
