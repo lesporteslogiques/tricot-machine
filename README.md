@@ -33,3 +33,13 @@ Adaptation à des nouvelles contraintes :
 * damier porté à 64 x 64, avec 8 pixels par case
 
 Le chemin absolu vers le dossier de sauvegarde des motifs est indiqué dans le fichier config.txt, dans le répertoire data de l'application.
+
+## Collage / dessin
+
+Applications pour dessiner des pièces tricotées à différents formats
+
+### affiche_v002
+
+En partant d'un modèle précédent et d'un type de laine pour avoir une pièce de 40x60cm, on prend une image d'origine de 120 mailles x 202 rangs. C'est toujours à adapter en fonction de la tension de la laine.
+
+![screenshot affiche 0.0.2](./assets/affiche_v002_screenshot.png)
