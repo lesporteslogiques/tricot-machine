@@ -1,8 +1,10 @@
 # Tricot-Machine
 
-Applications et scripts utiles pour utiliser des machines à tricoter Brother Electroknit (KH940 principalement)
+Applications et scripts utiles pour utiliser des machines à tricoter Brother Electroknit (KH940 principalement). Ces applications ont été écrites au fil du temps et des projets. En résumé les plus utiles sont **motif_v005** et **gabarits_v001**: motif_v005 permet de créer des motifs en 3 couleurs (couleur de fond, couleur de contraste, transparent) et gabarits_v001 permet de les assembler sur des gabarits à tricoter (bonnet, mitaine, guêtre)
 
-Voir aussi http://lesporteslogiques.net/wiki/outil/machine_a_tricoter_brother_kh940/start
+
+
+Voir aussi http://lesporteslogiques.net/wiki/outil/machine_a_tricoter_brother_kh940/start  
 
 ## Tramage
 
@@ -37,6 +39,25 @@ Le chemin absolu vers le dossier de sauvegarde des motifs est indiqué dans le f
 ## Collage / dessin
 
 Applications pour dessiner des pièces tricotées à différents formats
+
+### gabarits_v001
+
+Assembler des «tampons» (personnages, éléments divers), des textures basées sur des motifs répétés, des textes sur des gabarits textile (guêtre, bonnet, mitaine)
+
+#### Mode d'emploi / pour mémoire
+
+* TOUCHE H POUR L'AIDE
+* définir la taille du cadre (= le gabarit), dans la liste déroulante TAILLE_CADRE
+* si nécessaire, placer le cadre en utilisant les flèches
+* effacer si nécessaire avec alt+b ou alt+n (selon la couleur)
+* dessiner en sélectionnant le mode PIXEL
+* écrire en sélectionnant TEXTE ou TEXTEX2 (double taille)
+* tamponner en utilisant les autres modes
+* appliquer une texture avec le mode TEXTURE
+* changer le nom du fichier dans la case FICHIER (image par défaut) par le type (bonnet,guetre,etc.) + un prénom, sans espace sans accent de préférence, ça pourrait fâcher knittington
+- enregistrer le motif en appuyant sur s
+
+![screenshot de la version 0.0.1](./assets/gabarits_v001_screenshot.png)
 
 ### affiche_v002
 
