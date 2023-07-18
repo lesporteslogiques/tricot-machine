@@ -73,6 +73,16 @@ Application utilisée pendant le festival «In-Cité» organisé par «la fourmi
 
 ## Miscellanées
 
+### Simulation de mailles
+
 ![cube tricot en rotation](./assets/cube_tricot.gif)
 
 Pour faire ce genre de choses, voir [ici](https://lesporteslogiques.net/wiki/ressource/logiciel/fabrique_de_gif/cube_en_rotation_facon_tricot) et [là](https://openprocessing.org/sketch/712340)
+
+### stitch image color
+
+Script processing qui transforme une image couleur en simulation de mailles.
+
+[stitch_image_color](./stitch_image_color)
+
+![logo la labomedia](./assets/lalabo_stitched.png)
