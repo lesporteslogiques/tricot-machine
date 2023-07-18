@@ -70,3 +70,9 @@ En partant d'un modèle précédent et d'un type de laine pour avoir une pièce 
 Application utilisée pendant le festival «In-Cité» organisé par «la fourmi-e» à Carhaix, le 15 juin 2019. Permet de réaliser une fresque en tricot de 1280 rangs x 96 mailles (longueur environ 7 mètres), en plusieurs parties car la mémoire de la KH_940 est limitée.
 
 ![screenshot de carhaix_pixels_v005](./assets/carhaix_pixels_v005_screenshot.png)
+
+## Miscellanées
+
+![cube tricot en rotation](./assets/cube_tricot.gif)
+
+Pour faire ce genre de choses, voir [ici](https://lesporteslogiques.net/wiki/ressource/logiciel/fabrique_de_gif/cube_en_rotation_facon_tricot) et [là](https://openprocessing.org/sketch/712340)
