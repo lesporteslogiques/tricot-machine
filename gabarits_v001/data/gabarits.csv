@@ -1,0 +1,13 @@
+id,largeur,hauteur,description
+bonnet-lettrage-S,150,30,Bonnet (lettrage) taille S
+bonnet-lettrage-M,160,30,Bonnet (lettrage) taille M
+bonnet-lettrage-L,170,30,Bonnet (lettrage) taille L
+bonnet-image-S,150,80,Bonnet (image) taille S 
+bonnet-image-M,160,80,Bonnet (image) taille M
+bonnet-image-L,170,80,Bonnet (image) taille L
+mitaine-lettrage-M,65,15,Mitaine (lettrage) taille M
+mitaine-lettrage-L,80,15,Mitaine (lettrage) taille L
+mitaine-image-M,60,85,Mitaine (image) taille M
+mitaine-image-L,70,85,Mitaine (lettrage) taille L
+guetre-S,88,96,Guêtre taille S
+guetre-M,88,150,Guêtre taille M

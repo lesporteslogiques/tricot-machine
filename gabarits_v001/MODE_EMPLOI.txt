@@ -1,0 +1,11 @@
+- définir la taille du cadre, dans la liste déroulante TAILLE_CADRE
+- si nécessaire, placer le cadre en utilisant les flèches 
+- rappeler couleur de fond, couleur de contraste
+- effacer si nécessaire avec alt+b ou alt+n (selon la couleur)
+- dessiner en sélectionnant le mode PIXEL
+- écrire en sélectionnant TEXTE ou TEXTEX2 (double taille)
+- tamponner en utilisant les autres modes
+- changer le nom du fichier dans la case FICHIER (image par défaut) par le type (bonnet,guetre,etc.) + un prénom, sans espace sans accent de préférence, ça pourrait facher knittington
+- enregistrer le motif en appuyant sur s
+
+TOUCHE H POUR L'AIDE
