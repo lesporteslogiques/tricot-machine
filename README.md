@@ -67,6 +67,6 @@ En partant d'un modèle précédent et d'un type de laine pour avoir une pièce 
 
 ### carhaix_pixels_v005 (2019)
 
-Application utilisée pendant le festival «In-Cité» organisé par «la fourmi-e» à Carhaix, le 15 juin 2019. Permet de réaliser une fresque en tricot de 1280 x 96 mailles (longueur environ 7 mètres), en plusieurs parties car la mémoire de la KH_940 est limitée.
+Application utilisée pendant le festival «In-Cité» organisé par «la fourmi-e» à Carhaix, le 15 juin 2019. Permet de réaliser une fresque en tricot de 1280 rangs x 96 mailles (longueur environ 7 mètres), en plusieurs parties car la mémoire de la KH_940 est limitée.
 
 ![screenshot de carhaix_pixels_v005](./assets/carhaix_pixels_v005_screenshot.png)
