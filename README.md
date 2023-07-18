@@ -64,3 +64,9 @@ Assembler des «tampons» (personnages, éléments divers), des textures basées
 En partant d'un modèle précédent et d'un type de laine pour avoir une pièce de 40x60cm, on prend une image d'origine de 120 mailles x 202 rangs. C'est toujours à adapter en fonction de la tension de la laine.
 
 ![screenshot affiche 0.0.2](./assets/affiche_v002_screenshot.png)
+
+### carhaix_pixels_v005 (2019)
+
+Application utilisée pendant le festival «In-Cité» organisé par «la fourmi-e» à Carhaix, le 15 juin 2019. Permet de réaliser une fresque en tricot de 1280 x 96 mailles (longueur environ 7 mètres), en plusieurs parties car la mémoire de la KH_940 est limitée.
+
+![screenshot de carhaix_pixels_v005](./assets/carhaix_pixels_v005_screenshot.png)
